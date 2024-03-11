@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(235, 210, 66, 0.397);
+}
+
+.shop-header {
+    background-image: url("https://www.activityhub.co.za/storage/app/resources/resize/img_57f4fd8daea3167a0d701a091235ae37_776_437_0_0_crop.JPG");
+    background-size: cover;
+    height: 700px;
+    color: rgb(235, 210, 66); 
+}
+
+.shop-stats {
+    color: rgb(235, 210, 66); 
+}
